@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aadilgani2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q](https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q](https://drive.google.com/file/d/1BsBQ4QWhW4HJK9513fslhh-B030rieMD/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
