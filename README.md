@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aadilgani20" target="blank"><img src="https://img.shields.io/twitter/follow/@aadilgani20?logo=twitter&style=for-the-badge" alt="@aadilgani20" /></a> </p>
 
-- 🔭 I’m currently working on **News App**
+- 🔭 I’m currently working on **iNoteBook**
 
 - 🌱 I’m currently learning **Python for AIML.**
 
