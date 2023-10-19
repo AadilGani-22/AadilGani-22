@@ -33,11 +33,11 @@
 
 - 💬 Ask me about **C++, Java, MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aadilgani.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website](https://aadilgani.netlify.app/)
 
 - 📫 How to reach me **aadilgani2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BsBQ4QWhW4HJK9513fslhh-B030rieMD/view)
 
 - ⚡ Fun fact **I think I am funny.**
 
@@ -146,15 +146,6 @@
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -373,7 +364,15 @@
           height="40"
         />
       </a>
-    </a>
+</a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android"
+      width="40"
+      height="40"
+    />
+  </a>
     <a
       href="https://www.adobe.com/in/products/illustrator.html"
       target="_blank"
