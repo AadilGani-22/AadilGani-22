@@ -25,11 +25,20 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **iNoteBook** - 🌱 I’m currently learning **Python
-for AIML.** - 👯 I’m looking to collaborate on **Machine Learning Project for
-Final Year.** - 💬 Ask me about **C++, Java, MERN** - 📫 How to reach me
-**aadilgani2001@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q](https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q)
+- 🔭 I’m currently working on **iNotebook**
+
+- 🌱 I’m currently learning **Python for AIML.**
+
+- 👯 I’m looking to collaborate on **Machine Learning Project for Final Year.**
+
+- 💬 Ask me about **C++, Java, MERN**
+
+- 👨‍💻 All of my projects are available at ()
+
+- 📫 How to reach me **aadilgani2001@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1a1jJOwfA628Ps29VL855xowMS0MaMt5Q)
+
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
@@ -195,6 +204,14 @@ Final Year.** - 💬 Ask me about **C++, Java, MERN** - 📫 How to reach me
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
       width="40"
       height="40"
     />
