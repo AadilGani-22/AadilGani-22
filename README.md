@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **C++, Java, MERN**
 
-- 👨‍💻 All of my projects are available at ()
+- 👨‍💻 All of my projects are available at [Portfolio](https://aadilgani.netlify.app/)
 
 - 📫 How to reach me **aadilgani2001@gmail.com**
 
