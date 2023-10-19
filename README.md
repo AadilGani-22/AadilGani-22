@@ -43,40 +43,42 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/@aadilgani20" target="blank"
-    ><img
+  <a href="https://twitter.com/@aadilgani20" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="@aadilgani20"
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/aadil-gani-6978b3137" target="blank"
-    ><img
+  <a href="https://linkedin.com/in/aadil-gani-6978b3137" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="aadil-gani-6978b3137"
       height="30"
       width="40"
   /></a>
-  <a href="https://codesandbox.com/aadilgani-22" target="blank"
-    ><img
+  <a href="https://codesandbox.com/aadilgani-22" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
       alt="aadilgani-22"
       height="30"
       width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/aaga20is" target="blank"
-    ><img
+  />
+  </a>
+  <a href="https://www.hackerrank.com/aaga20is" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="aaga20is"
       height="30"
       width="40"
-  /></a>
-  <a href="https://www.leetcode.com/aadil_gani" target="blank"
-    ><img
+  />
+  </a>
+  <a href="https://www.leetcode.com/aadil_gani" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="aadil_gani"
