@@ -15,14 +15,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=aadilgani-22"
-      alt="aadilgani-22"
-  /></a>
-</p>
-
-<p align="left">
   <a href="https://twitter.com/@aadilgani20" target="blank"> <img
       src="https://img.shields.io/twitter/follow/@aadilgani20?logo=twitter&style=for-the-badge"
       alt="@aadilgani20"
@@ -452,4 +444,11 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=aadilgani-22&"
     alt="aadilgani-22"
   />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=aadilgani-22"
+      alt="aadilgani-22"
+  /></a>
 </p>
