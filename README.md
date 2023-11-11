@@ -15,6 +15,14 @@
 </p>
 
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=aadilgani-22"
+      alt="aadilgani-22"
+  /></a>
+</p>
+
+<p align="left">
   <a href="https://twitter.com/@aadilgani20" target="blank"> <img
       src="https://img.shields.io/twitter/follow/@aadilgani20?logo=twitter&style=for-the-badge"
       alt="@aadilgani20"
@@ -63,14 +71,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.codechef.com/users/aaga20is" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="aaga20is"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.hackerrank.com/aaga20is" target="blank"
     ><img
       align="center"
@@ -84,14 +84,6 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="aadil_gani"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerearth.com/@aadilgani" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-      alt="@aadilgani"
       height="30"
       width="40"
   /></a>
@@ -178,14 +170,6 @@
       height="40"
     />
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -210,7 +194,6 @@
       height="40"
     />
   </a>
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -219,10 +202,10 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
+      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      alt="babel"
       width="40"
       height="40"
     />
@@ -230,14 +213,6 @@
 </p>
 <h3 align="left">Backend Development</h3>
 <p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="40"
-          height="40"
-        />
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -270,6 +245,30 @@
           height="40"
         />
       </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          alt="express"
+          width="40"
+          height="40"
+        />
+    </a>
 
 </p>
 <h3 align="left">Databases</h3>
@@ -290,14 +289,6 @@
           height="40"
         />
       </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -314,15 +305,7 @@
       height="40"
     />
   </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
+      <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
